@@ -12,7 +12,7 @@ Compilation:
 
 Example output:
 -------------------------------
-rb-dev$./break
+rb-dev$./while
 
 num=10
 num=11
